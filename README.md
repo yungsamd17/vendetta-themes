@@ -8,7 +8,7 @@
 ### How to Install
 - Choose a theme and click on it from the list above
 - Copy the URL of the desired theme, it should look something like this:
->https://raw.githubusercontent.com/yungsamd17/vendetta-themes/main/themes/dracula-ish.json
+- >https://raw.githubusercontent.com/yungsamd17/vendetta-themes/main/themes/dracula-ish.json
 
 - Go to Settings tab
 - Vendetta `->` Themes
