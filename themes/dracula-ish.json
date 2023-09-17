@@ -102,55 +102,14 @@
       "#ff901a"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#11111b"
-      ],
-      "SCROLLBAR_AUTO_THUMB": [
-      "#bd93f9"
-      ],
-      "SCROLLBAR_AUTO_TRACK": [
-      "#bd93f9"
-      ],
-      "SCROLLBAR_THIN_THUMB": [
-      "#bd93f9"
-      ],
-      "SCROLLBAR_THIN_TRACK": [
-      "#bd93f9"
+      "#181920"
       ],
       "SPOILER_HIDDEN_BACKGROUND": [
       "#9399b2"
       ],
-      "TEXT_DANGER": [
-      "#bd93f9"
-      ],
       "TEXT_LINK": [
       "#bd93f9"
-      ],
-      "TEXT_MUTED": [
-      "#a6adc8"
-      ],
-      "TEXT_NORMAL": [
-      "#cdd6f4"
       ]
   },
-    "rawColors": {
-      "BRAND_260": "#bd93f9",
-      "BRAND_360": "#bd93f9",
-      "BRAND_500": "#bd93f9",
-      "GREEN_360": "#a6e3a1",
-      "PRIMARY_100": "#44475a",
-      "PRIMARY_300": "#1e1e2e",
-      "PRIMARY_360": "#bd93f9",
-      "PRIMARY_400": "#bd93f9",
-      "PRIMARY_460": "#191a21",
-      "PRIMARY_500": "#44475a",
-      "PRIMARY_600": "#1e1e2e",
-      "PRIMARY_630": "#1e1e2e",
-      "PRIMARY_660": "#11111b",
-      "PRIMARY_700": "#11111b",
-      "PRIMARY_800": "#191a21",
-      "RED_400": "#eba0ac",
-      "WHITE_500": "#585b70",
-      "YELLOW_300": "#f9e2af"
-    },
-    "spec": 2
+    "spec": 3
 }
