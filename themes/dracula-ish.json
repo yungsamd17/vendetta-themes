@@ -30,10 +30,10 @@
       "#bd93f9"
       ],
       "BACKGROUND_MESSAGE_HIGHLIGHT_HOVER": [
-      "#413c57"
+      "#b9b9b9"
       ],
       "BACKGROUND_MESSAGE_HOVER": [
-      "#413c57"
+      "#b9b9b9"
       ],
       "BACKGROUND_MOBILE_PRIMARY": [
       "#282a36"
@@ -42,7 +42,7 @@
       "#21222c"
       ],
       "BACKGROUND_MODIFIER_ACCENT": [
-      "#413C57"
+      "#b9b9b9"
       ],
       "BACKGROUND_MODIFIER_ACTIVE": [
       "#191a21"
@@ -84,16 +84,16 @@
       "#21222c"
       ],
       "INTERACTIVE_ACTIVE": [
-      "#f8f8f2"
+      "#8c8c8c"
       ],
       "INTERACTIVE_HOVER": [
       "#414a68"
       ],
       "INTERACTIVE_MUTED": [
-      "#414a68"
+      "#505050"
       ],
       "INTERACTIVE_NORMAL": [
-      "#414a68"
+      "#8c8c8c"
       ],
       "MENTION_BACKGROUND": [
       "#332f34"
@@ -108,5 +108,5 @@
       "#bd93f9"
       ]
   },
-    "spec": 4
+    "spec": 5
 }
