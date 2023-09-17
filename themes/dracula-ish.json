@@ -75,10 +75,10 @@
       "#282a36"
       ],
       "HEADER_PRIMARY": [
-      "#191a21"
+      "#bd93f9"
       ],
       "HEADER_SECONDARY": [
-      "#21222c"
+      "#6272a4"
       ],
       "HOME_BACKGROUND": [
       "#21222c"
@@ -102,10 +102,7 @@
       "#ff901a"
       ],
       "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-      "#181920"
-      ],
-      "SPOILER_HIDDEN_BACKGROUND": [
-      "#9399b2"
+      "#1e1e29"
       ],
       "TEXT_LINK": [
       "#bd93f9"
