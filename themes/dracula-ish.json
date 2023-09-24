@@ -65,17 +65,38 @@
       "BACKGROUND_TERTIARY": [
       "#191a21"
       ],
+      "CHANNEL_ICON": [
+      "#dadee1"
+      ],
       "CHANNELS_DEFAULT": [
       "#dadee1"
       ],
       "CHAT_BACKGROUND": [
       "#282a36"
       ],
-      "HEADER_SECONDARY": [
-      "#282a36"
-      ],
       "HOME_BACKGROUND": [
       "#21222c"
+      ],
+      "INTERACTIVE_ACTIVE": [
+      "#f8f8f2"
+      ],
+      "INTERACTIVE_HOVER": [
+      "#414a68"
+      ],
+      "INTERACTIVE_MUTED": [
+      "#414a68"
+      ],
+      "INTERACTIVE_NORMAL": [
+      "#414a68"
+      ],
+      "MENTION_BACKGROUND": [
+      "#332f34"
+      ],
+      "MENTION_FOREGROUND": [
+      "#ff901a"
+      ],
+      "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#181920"
       ],
       "TEXT_LINK": [
       "#bd93f9"
