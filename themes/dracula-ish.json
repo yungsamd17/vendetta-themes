@@ -71,12 +71,14 @@
       "CHAT_BACKGROUND": [
       "#282a36"
       ],
+      "HEADER_SECONDARY": [
+      "#282a36"
+      ],
       "HOME_BACKGROUND": [
-      "#181920"
+      "#21222c"
       ],
       "TEXT_LINK": [
       "#bd93f9"
       ]
-  },
-    "spec": 7
+  }
 }
